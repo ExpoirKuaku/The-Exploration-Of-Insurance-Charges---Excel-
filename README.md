@@ -42,6 +42,14 @@ Skills
 
 ●	Insurance/healthcare cost analysis and KPI definition
 
+Average of Charges	Smoker		
+Gender	yes	no	Grand Total
+female	30679	8762	12570
+male	33042	8100	13975
+Grand Total	32050	8441	13279
+<img width="455" height="146" alt="image" src="https://github.com/user-attachments/assets/023d1e70-239c-4447-927d-2a67a2781410" />
+
+
 Results
 
 Dashboard visuals and key metrics:
@@ -65,6 +73,9 @@ Key findings:
 ●	Southeast region has the highest average charges overall ($14,735), driven by its smoker population ($34,845 avg)
 
 ●	Obese policyholders make up the largest BMI bracket and trend toward higher charges
+
+<img width="1118" height="481" alt="image" src="https://github.com/user-attachments/assets/4c3e94e8-9ae5-483d-924e-30392b476442" />
+
 
 Business Recommendations
 ●	Weight smoker status heavily in premium pricing models — it's the single largest cost multiplier
