@@ -1,4 +1,6 @@
 # Insurance Cost Analysis 
+<img width="825" height="361" alt="Dashboard final" src="https://github.com/user-attachments/assets/db613140-a791-4f23-9a57-5b6ea90e3fce" />
+
 Excel dashboard analyzing 1,338 medical insurance records. Tracks charges by smoking status, BMI bracket, age group, region, and family size. Surfaces the biggest cost drivers to support premium pricing and risk assessment.
 
 Insurance Charges Analysis
